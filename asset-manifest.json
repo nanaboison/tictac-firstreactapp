@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tictac-firstreactapp/static/css/main.c8342f5d.chunk.css",
+    "main.js": "/tictac-firstreactapp/static/js/main.5afa1843.chunk.js",
+    "main.js.map": "/tictac-firstreactapp/static/js/main.5afa1843.chunk.js.map",
+    "runtime-main.js": "/tictac-firstreactapp/static/js/runtime-main.0b38c484.js",
+    "runtime-main.js.map": "/tictac-firstreactapp/static/js/runtime-main.0b38c484.js.map",
+    "static/js/2.cca3f59a.chunk.js": "/tictac-firstreactapp/static/js/2.cca3f59a.chunk.js",
+    "static/js/2.cca3f59a.chunk.js.map": "/tictac-firstreactapp/static/js/2.cca3f59a.chunk.js.map",
+    "index.html": "/tictac-firstreactapp/index.html",
+    "static/css/main.c8342f5d.chunk.css.map": "/tictac-firstreactapp/static/css/main.c8342f5d.chunk.css.map",
+    "static/js/2.cca3f59a.chunk.js.LICENSE.txt": "/tictac-firstreactapp/static/js/2.cca3f59a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b38c484.js",
+    "static/js/2.cca3f59a.chunk.js",
+    "static/css/main.c8342f5d.chunk.css",
+    "static/js/main.5afa1843.chunk.js"
+  ]
+}
